@@ -1,3 +1,4 @@
+<!-- mIxEd style head (quite simple and full width in GitHub) -->
 <table id="top" width="100%" border="0"><tr><td align="left" valign="middle" width="96">
 
 [![Icon](docs/index@2x.png "Icon")](#! "Icon")
