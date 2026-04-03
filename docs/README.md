@@ -1,4 +1,6 @@
-<!-- mIxEd style head (quite simple and full width in GitHub) -->
+<!-- HEADER_END -->
+
+<!-- mIxEd style head (quite simple and full width in GitHub)
 <table id="top" width="100%" border="0"><tr><td align="left" valign="middle" width="96">
 
 [![Icon](assets/icon.png "Icon")](#! "Icon")
@@ -6,7 +8,8 @@
 
 [![h-shield1-i]][h-shield1-a] [![h-shield2-i]][h-shield2-a] [![h-shield3-i]][h-shield3-a]
 </td></tr></table>
-
+-->
+ 
 # LS Shapes Window
 
 Persistent shape palette plus helpers for better management of Moho® vectors in general and *Liquid Shapes* in particular. This script provides a visual and user-friendly interface for performing complex shape operations effortlessly.
