@@ -1,6 +1,4 @@
-<!-- HEADER_START -->
 <table width='100%' border='0'><tr><td align='left' valign='middle' width='96'><img src='https://raw.githubusercontent.com/RaiLopez/RaiLopez/refs/heads/main/docs/ls_shapes/assets/icon.png' width='48' alt='Icon'></td><td align='right' valign='middle' nowrap><a href='https://moho.lostmarble.com/'><img src='https://img.shields.io/badge/For-Moho_+-orange' alt='Moho'></a> <a href='/ls_shapes/releases/latest'><img src='https://img.shields.io/github/v/release/RaiLopez/ls_shapes?logo=github&color=blue&label=version%200.0.0' alt='Version'></a> <img src='https://img.shields.io/github/downloads/RaiLopez/ls_shapes/total?color=yellow&label=downloads' alt='Downloads'></td></tr></table>
-<!-- HEADER_END -->
 
 <!-- mIxEd style head (quite simple and full width in GitHub) -->
 <table id="top" width="100%" border="0"><tr><td align="left" valign="middle" width="96">
